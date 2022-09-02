@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="199" viewBox="0 0 132 199">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #25a499;
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="画板_8" data-name="画板 8">
+    <circle id="椭圆_1_拷贝_2" data-name="椭圆 1 拷贝 2" class="cls-1" cx="66" cy="66" r="66"/>
+    <path id="形状_131_拷贝_2" data-name="形状 131 拷贝 2" class="cls-2" d="M17986,8812v70" transform="translate(-17912 -8683)"/>
+  </g>
+<archi id="d" name="语义名称">
+    <content> 
+        <type>architecture</type>
+        <model>building</model>
+        <element>window</element>
+    </content>
+    <layout>block|outline|2.5D</layout>
+    <orientation>left|right|front</orientation>
+    <shot>close|medium|long|background|common</shot>
+    <boundingrect>
+         <ele>0,-5,132,199</ele>
+    </boundingrect>
+ </archi>
+</svg>

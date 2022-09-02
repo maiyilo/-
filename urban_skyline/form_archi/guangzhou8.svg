@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="GBK"?>
+<svg id="archi_svg_guangzhou8" width="8000" height="8000" viewBox="0 0 8000 8000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" type="text/css">use.ic-1 { fill: skyblue; }use.ic-2 { fill:none; stroke:#42C2FF;stroke-width:2}</style><svg id="guangzhou8" xml:space="preserve">
+<use class="ic-2" xlink:href="#archi_guangzhou8"/></svg>
+<defs>
+<g id='archi_guangzhou8'>
+<defs xmlns="http://www.w3.org/2000/svg"><style>.cls-1,.cls-2,.cls-3{stroke-miterlimit:10;}.cls-2{}.cls-3{}</style></defs>
+<path xmlns="http://www.w3.org/2000/svg" class="cls-1" d="M17,110.14H.6V61.61C.6,17,17,1.34,17,1.34Z"/>
+<rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="17.02" y="1.34" width="8.92" height="108.8" transform="translate(42.96 111.48) rotate(180)"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="2.05" y1="62.16" x2="2.05" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="3.58" y1="44.05" x2="3.58" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="5.11" y1="35.07" x2="5.11" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="6.64" y1="29.27" x2="6.64" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="8.17" y1="23.19" x2="8.17" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="9.71" y1="18.76" x2="9.71" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="11.24" y1="14.34" x2="11.24" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="12.77" y1="10.33" x2="12.77" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="14.3" y1="7.71" x2="14.3" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-2" x1="15.83" y1="5.36" x2="15.83" y2="109.7"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="17.62" y1="1.29" x2="17.63" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="18.45" y1="1.29" x2="18.46" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="19.29" y1="1.29" x2="19.3" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="20.12" y1="1.29" x2="20.13" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="20.96" y1="1.29" x2="20.97" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="21.79" y1="1.29" x2="21.8" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="22.63" y1="1.29" x2="22.64" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="23.46" y1="1.29" x2="23.47" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="24.3" y1="1.29" x2="24.31" y2="109.66"/>
+<line xmlns="http://www.w3.org/2000/svg" class="cls-3" x1="25.13" y1="1.29" x2="25.14" y2="109.66"/>
+
+<archi xmlns="http://www.w3.org/2000/svg" id="d" name="&#x8BED;&#x4E49;&#x540D;&#x79F0;">
+    <content> 
+        <type>architecture</type>
+        <model>building</model>
+        <element>window</element>
+    </content>
+    <layout>block|outline|2.5D</layout>
+    <orientation>left|right|front</orientation>
+    <shot>close|medium|long|background|common</shot>
+    <boundingrect>
+         <ele>0.6000000238418579,1.2899999618530273,25.34000015258789,108.8499984741211</ele>
+    </boundingrect>
+ </archi>
+
+<title>archi_guangzhou8</title>
+</g>
+</defs>
+</svg>

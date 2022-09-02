@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="GBK"?>
+<svg id="archi_svg_北京-04" width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" type="text/css">use.ic-1 { fill: skyblue; }use.ic-2 { fill:none; stroke:#42C2FF}</style><svg id="北京-04" xml:space="preserve">
+<use class="ic-2" xlink:href="#archi_北京-04"/></svg>
+<defs>
+<g id='archi_北京-04'>
+<g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<path id="SVGID_523_" d="M249.3,64.7H0C6.2,31.2,47.9,0,125.3,0C204.9,0,245.1,31.2,249.3,64.7z"/>
+	</defs>
+	<use xlink:href="#SVGID_523_" style="overflow:visible;"/>
+	<clipPath id="SVGID_1_">
+		<use xlink:href="#SVGID_523_" style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_1_);">
+		<line class="st475" x1="103.9" y1="0.8" x2="281.3" y2="0.8"/>
+		<line class="st475" x1="101.4" y1="2" x2="283.2" y2="2"/>
+		<line class="st475" x1="98.3" y1="3.5" x2="284.6" y2="3.5"/>
+		<line class="st475" x1="94.7" y1="5.2" x2="285.4" y2="5.2"/>
+		<line class="st475" x1="90.7" y1="7" x2="285.7" y2="7"/>
+		<line class="st475" x1="86.2" y1="9.1" x2="285.7" y2="9.1"/>
+		<line class="st475" x1="81.5" y1="11.3" x2="285.4" y2="11.3"/>
+		<line class="st475" x1="76.4" y1="13.7" x2="284.8" y2="13.7"/>
+		<line class="st475" x1="71.2" y1="16.3" x2="283.9" y2="16.3"/>
+		<line class="st475" x1="65.8" y1="19.1" x2="282.9" y2="19.1"/>
+		<line class="st475" x1="60.3" y1="22" x2="281.9" y2="22"/>
+		<line class="st475" x1="54.8" y1="25" x2="280.8" y2="25"/>
+		<line class="st475" x1="49.3" y1="28.2" x2="279.7" y2="28.2"/>
+		<line class="st475" x1="43.9" y1="31.5" x2="278.7" y2="31.5"/>
+		<line class="st475" x1="38.7" y1="34.9" x2="277.9" y2="34.9"/>
+		<line class="st475" x1="33.7" y1="38.4" x2="277.3" y2="38.4"/>
+		<line class="st475" x1="28.9" y1="42.1" x2="276.9" y2="42.1"/>
+		<line class="st475" x1="24.5" y1="45.8" x2="276.9" y2="45.8"/>
+		<line class="st475" x1="20.4" y1="49.6" x2="277.3" y2="49.6"/>
+		<line class="st475" x1="16.8" y1="53.5" x2="278.1" y2="53.5"/>
+		<line class="st475" x1="13.7" y1="57.5" x2="279.4" y2="57.5"/>
+		<line class="st475" x1="11.2" y1="61.5" x2="281.3" y2="61.5"/>
+	</g>
+	<g style="clip-path:url(#SVGID_1_);">
+		<defs>
+			<path id="SVGID_525_" d="M7.1,68.7c7-27.4,21.8-53.8,83.2-67.3l21-3.1c-8.1,2.7-12.9,5.6-10.2,12.4c4.6,11.6,41.4,24.2,41.4,57.1     L7.1,68.7z"/>
+		</defs>
+		<use xlink:href="#SVGID_525_" style="overflow:visible;"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_525_" style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_2_);">
+			<line class="st475" x1="-14.8" y1="0.8" x2="255.3" y2="0.8"/>
+			<line class="st475" x1="-14.8" y1="2" x2="255.3" y2="2"/>
+			<line class="st475" x1="-14.8" y1="3.5" x2="255.3" y2="3.5"/>
+			<line class="st475" x1="-14.8" y1="5.2" x2="255.3" y2="5.2"/>
+			<line class="st475" x1="-14.8" y1="7" x2="255.3" y2="7"/>
+			<line class="st475" x1="-14.8" y1="9.1" x2="255.3" y2="9.1"/>
+			<line class="st475" x1="-14.8" y1="11.3" x2="255.3" y2="11.3"/>
+			<line class="st475" x1="-14.8" y1="13.7" x2="255.3" y2="13.7"/>
+			<line class="st475" x1="-14.8" y1="16.3" x2="255.3" y2="16.3"/>
+			<line class="st475" x1="-14.8" y1="19.1" x2="255.3" y2="19.1"/>
+			<line class="st475" x1="-14.8" y1="22" x2="255.3" y2="22"/>
+			<line class="st475" x1="-14.8" y1="25" x2="255.3" y2="25"/>
+			<line class="st475" x1="-14.8" y1="28.2" x2="255.3" y2="28.2"/>
+			<line class="st475" x1="-14.8" y1="31.5" x2="255.3" y2="31.5"/>
+			<line class="st475" x1="-14.8" y1="34.9" x2="255.3" y2="34.9"/>
+			<line class="st475" x1="-14.8" y1="38.4" x2="255.3" y2="38.4"/>
+			<line class="st475" x1="-14.8" y1="42.1" x2="255.3" y2="42.1"/>
+			<line class="st475" x1="-14.8" y1="45.8" x2="255.3" y2="45.8"/>
+			<line class="st475" x1="-14.8" y1="49.6" x2="255.3" y2="49.6"/>
+			<line class="st475" x1="-14.8" y1="53.5" x2="255.3" y2="53.5"/>
+			<line class="st475" x1="-14.8" y1="57.5" x2="255.3" y2="57.5"/>
+			<line class="st475" x1="-14.8" y1="61.5" x2="255.3" y2="61.5"/>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<line class="st475" x1="4.3" y1="101.6" x2="4.3" y2="-190.2"/>
+			<line class="st475" x1="8.7" y1="101.6" x2="8.7" y2="-190.2"/>
+			<line class="st475" x1="13.2" y1="101.6" x2="13.2" y2="-190.2"/>
+			<line class="st475" x1="17.6" y1="101.6" x2="17.6" y2="-190.2"/>
+			<line class="st475" x1="22.1" y1="101.6" x2="22.1" y2="-190.2"/>
+			<line class="st475" x1="26.5" y1="101.6" x2="26.5" y2="-190.2"/>
+			<line class="st475" x1="31" y1="101.6" x2="31" y2="-190.2"/>
+			<line class="st475" x1="35.4" y1="101.6" x2="35.4" y2="-190.2"/>
+			<line class="st475" x1="39.8" y1="101.6" x2="39.8" y2="-190.2"/>
+			<line class="st475" x1="44.3" y1="101.6" x2="44.3" y2="-190.2"/>
+			<line class="st475" x1="48.7" y1="101.6" x2="48.7" y2="-190.2"/>
+			<line class="st475" x1="53.2" y1="101.6" x2="53.2" y2="-190.2"/>
+			<line class="st475" x1="57.6" y1="101.6" x2="57.6" y2="-190.2"/>
+			<line class="st475" x1="62.1" y1="101.6" x2="62.1" y2="-190.2"/>
+			<line class="st475" x1="66.5" y1="101.6" x2="66.5" y2="-190.2"/>
+			<line class="st475" x1="70.9" y1="101.6" x2="70.9" y2="-190.2"/>
+			<line class="st475" x1="75.4" y1="101.6" x2="75.4" y2="-190.2"/>
+			<line class="st475" x1="79.8" y1="101.6" x2="79.8" y2="-190.2"/>
+			<line class="st475" x1="84.3" y1="101.6" x2="84.3" y2="-190.2"/>
+			<line class="st475" x1="88.7" y1="101.6" x2="88.7" y2="-190.2"/>
+			<line class="st475" x1="93.2" y1="101.6" x2="93.2" y2="-190.2"/>
+			<line class="st475" x1="97.6" y1="101.6" x2="97.6" y2="-190.2"/>
+			<line class="st475" x1="102.1" y1="101.6" x2="102.1" y2="-190.2"/>
+			<line class="st475" x1="106.5" y1="101.6" x2="106.5" y2="-190.2"/>
+			<line class="st475" x1="110.9" y1="101.6" x2="110.9" y2="-190.2"/>
+			<line class="st475" x1="115.4" y1="101.6" x2="115.4" y2="-190.2"/>
+			<line class="st475" x1="119.8" y1="101.6" x2="119.8" y2="-190.2"/>
+			<line class="st475" x1="124.3" y1="101.6" x2="124.3" y2="-190.2"/>
+			<line class="st475" x1="128.7" y1="101.6" x2="128.7" y2="-190.2"/>
+			<line class="st475" x1="133.2" y1="101.6" x2="133.2" y2="-190.2"/>
+			<line class="st475" x1="137.6" y1="101.6" x2="137.6" y2="-190.2"/>
+			<line class="st475" x1="142.1" y1="101.6" x2="142.1" y2="-190.2"/>
+		</g>
+		<use xlink:href="#SVGID_525_" style="overflow:visible;stroke-width:0.25;stroke-miterlimit:10;"/>
+	</g>
+	<use xlink:href="#SVGID_523_" style="overflow:visible;stroke-width:0.25;stroke-miterlimit:10;"/>
+</g>
+
+<title>archi_北京-04</title>
+</g>
+</defs>
+</svg>

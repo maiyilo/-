@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="GBK"?>
+<svg id="archi_svg_beijing7" width="8000" height="8000" viewBox="0 0 8000 8000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" type="text/css">use.ic-1 { fill: skyblue; }use.ic-2 { fill:none; stroke:#42C2FF;stroke-width:2}</style><svg id="beijing7" xml:space="preserve">
+<use class="ic-2" xlink:href="#archi_beijing7"/></svg>
+<defs>
+<g id='archi_beijing7'>
+<g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path class="st475" d="M75.4,398.6c-4.7-82-9-186-9-238.5c0-52.5,1.6-87.7,3.4-116.1c1.8-28.4,3-36.2,3-36.2s-2.2-5-10.1-7.6   C55,1.4,49.1,5,40.5,5L7.7,2.5c0,0,1.8,13.2,3.6,41.6c1.8,28.4,3.4,63.6,3.4,116.1c0,52.5-4.2,156.4-9,238.5H75.4z"/>
+	<path class="st475" d="M64.8,32.6l5.8,0.5C72,13.6,72.8,7.9,72.8,7.9s-2.2-5-10.1-7.6L64.8,32.6z"/>
+	<g>
+		<defs>
+			<path id="SVGID_515_" d="M69.6,398.6c-4.7-82-9-186-9-238.5c0-52.5,1.6-87.7,3.4-116.1c1.8-28.4,3.6-41.6,3.6-41.6     S64.9-0.9,57,0.3c-7.8,1.1-13.7,2.8-22.2,2.8h0.1c-8.6,0-14.4-1.7-22.2-2.8C4-1,1.9,2.5,1.9,2.5s1.8,13.2,3.6,41.6     C7.4,72.4,9,107.7,9,160.2c0,52.5-4.2,156.4-9,238.5H69.6z"/>
+		</defs>
+		<use xlink:href="#SVGID_515_" style="overflow:visible;"/>
+		<clipPath id="SVGID_1_">
+			<use xlink:href="#SVGID_515_" style="overflow:visible;"/>
+		</clipPath>
+		
+			<rect x="-19.9" y="-16.1" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 63.6841 16.5096)" style="clip-path:url(#SVGID_1_);stroke-miterlimit:10;" width="103.4" height="48.7"/>
+		
+			<rect x="12.2" y="96.5" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 69.6906 197.5756)" style="clip-path:url(#SVGID_1_);stroke-miterlimit:10;" width="45.2" height="4.6"/>
+		
+			<rect x="12.2" y="139.8" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 69.6906 284.2619)" style="clip-path:url(#SVGID_1_);stroke-miterlimit:10;" width="45.2" height="4.6"/>
+		
+			<rect x="12.2" y="183.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 69.6906 370.9483)" style="clip-path:url(#SVGID_1_);stroke-miterlimit:10;" width="45.2" height="4.6"/>
+		
+			<rect x="12.2" y="226.5" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 69.6906 457.6347)" style="clip-path:url(#SVGID_1_);stroke-miterlimit:10;" width="45.2" height="4.6"/>
+		
+			<rect x="12.2" y="269.8" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 69.6906 544.3211)" style="clip-path:url(#SVGID_1_);stroke-miterlimit:10;" width="45.2" height="4.6"/>
+		
+			<rect x="12.2" y="313.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 69.6906 631.0075)" style="clip-path:url(#SVGID_1_);stroke-miterlimit:10;" width="45.2" height="4.6"/>
+		<g style="clip-path:url(#SVGID_1_);">
+			<path class="st475" d="M7.9,0c0,0,4.9,51.3,4.9,188.6s-5.3,210-5.3,210"/>
+			<path class="st475" d="M12,0c0,0,4.1,51.3,4.1,188.6s-4.5,210-4.5,210"/>
+			<path class="st475" d="M16.2,0c0,0,3.4,51.3,3.4,188.6s-3.7,210-3.7,210"/>
+			<path class="st475" d="M20.3,0c0,0,2.6,51.3,2.6,188.6s-2.9,210-2.9,210"/>
+			<path class="st475" d="M24.4,0c0,0,1.9,51.3,1.9,188.6s-2,210-2,210"/>
+			<path class="st475" d="M28.5,0c0,0,1.1,51.3,1.1,188.6s-1.2,210-1.2,210"/>
+			<path class="st475" d="M32.7,0c0,0,0.4,51.3,0.4,188.6s-0.4,210-0.4,210"/>
+			<path class="st475" d="M36.8,0c0,0-0.4,51.3-0.4,188.6s0.4,210,0.4,210"/>
+			<path class="st475" d="M40.9,0c0,0-1.1,51.3-1.1,188.6s1.2,210,1.2,210"/>
+			<path class="st475" d="M45.1,0c0,0-1.9,51.3-1.9,188.6s2,210,2,210"/>
+			<path class="st475" d="M49.2,0c0,0-2.6,51.3-2.6,188.6s2.9,210,2.9,210"/>
+			<path class="st475" d="M53.3,0c0,0-3.4,51.3-3.4,188.6s3.7,210,3.7,210"/>
+			<path class="st475" d="M57.5,0c0,0-4.1,51.3-4.1,188.6s4.5,210,4.5,210"/>
+			<path class="st475" d="M61.6,0c0,0-4.9,51.3-4.9,188.6s5.3,210,5.3,210"/>
+		</g>
+		<use xlink:href="#SVGID_515_" style="overflow:visible;stroke-miterlimit:10;"/>
+	</g>
+</g>
+
+<archi xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="d" name="&#x8BED;&#x4E49;&#x540D;&#x79F0;">
+    <content> 
+        <type>architecture</type>
+        <model>building</model>
+        <element>window</element>
+    </content>
+    <layout>block|outline|2.5D</layout>
+    <orientation>left|right|front</orientation>
+    <shot>close|medium|long|background|common</shot>
+    <boundingrect>
+         <ele>-19.815900802612305,-16.09039878845215,103.4000015258789,414.7903747558594</ele>
+    </boundingrect>
+ </archi>
+
+<title>archi_beijing7</title>
+</g>
+</defs>
+</svg>

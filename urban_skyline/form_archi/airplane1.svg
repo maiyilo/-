@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="GBK"?>
+<svg id="archi_svg_airplane1" width="8000" height="8000" viewBox="0 0 8000 8000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" type="text/css">use.ic-1 { fill: skyblue; }use.ic-2 { fill:none; stroke:#42C2FF;stroke-width:2}</style><svg id="airplane1" xml:space="preserve">
+<use class="ic-2" xlink:href="#archi_airplane1"/></svg>
+<defs>
+<g id='archi_airplane1'>
+<defs xmlns="http://www.w3.org/2000/svg"><style>.cls-1{stroke-miterlimit:10;}</style></defs>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="41.12 31.97 44.42 34.38 43.11 35.23 37.38 33.28 41.12 31.97"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="60.17 21.12 83.79 30.7 80.86 33.35 53.53 25.86 60.17 21.12"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="29.9 31.31 26.82 18.91 28.26 17.76 36.7 25.26 29.9 31.31"/>
+<path xmlns="http://www.w3.org/2000/svg" class="cls-1" d="M30.55,30.23,28.6,31.38s-.53,1.68.53,2.21,8.07.8,12.33-.88,30.32-17,30.32-17C81.27,10,83.49,7.35,83.49,5.31S78.7,1.67,78.7,1.67s-3.1-2-8.69.44-38.13,26-38.13,26Z"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="65.56 6.34 66.27 5.88 66.31 7.03 65.59 7.44 65.56 6.34"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="64.04 7.36 64.73 6.91 64.77 8.04 64.06 8.45 64.04 7.36"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="62.51 8.37 63.19 7.93 63.23 9.06 62.54 9.46 62.51 8.37"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="60.98 9.39 61.65 8.95 61.68 10.07 61.01 10.47 60.98 9.39"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="59.46 10.41 60.1 9.97 60.14 11.09 59.48 11.48 59.46 10.41"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="57.93 11.42 58.56 11 58.6 12.1 57.96 12.49 57.93 11.42"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="56.4 12.44 57.02 12.02 57.06 13.11 56.43 13.49 56.4 12.44"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="54.88 13.46 55.48 13.04 55.52 14.13 54.9 14.5 54.88 13.46"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="53.35 14.47 53.94 14.06 53.97 15.14 53.38 15.51 53.35 14.47"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="51.82 15.49 52.4 15.09 52.43 16.16 51.85 16.52 51.82 15.49"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="50.3 16.51 50.85 16.11 50.89 17.17 50.32 17.53 50.3 16.51"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="46.18 19.4 46.84 18.98 46.87 20.05 46.2 20.43 46.18 19.4"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="44.7 20.44 45.33 20.03 45.36 21.07 44.73 21.43 44.7 20.44"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="43.23 21.47 43.82 21.09 43.85 22.08 43.26 22.44 43.23 21.47"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="41.76 22.51 42.3 22.14 42.34 23.1 41.78 23.44 41.76 22.51"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="40.29 23.55 40.8 23.19 40.83 24.12 40.31 24.44 40.29 23.55"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="38.82 24.58 39.28 24.25 39.31 25.14 38.84 25.45 38.82 24.58"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="53.81 17.77 4.71 11.9 1.12 14.82 49.22 24.46 54 19.81 53.81 17.77"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="32.79 29.15 18.05 28.47 16.21 29.78 30.36 32.76 32.79 29.15"/>
+<path xmlns="http://www.w3.org/2000/svg" class="cls-1" d="M41.32,14.48a2.84,2.84,0,0,1,2.87,2.91c0,1.61-.31,2.37-2.67,3.88S36.73,23,36,22.16a2.8,2.8,0,0,1-.36-3.91C36.93,16.64,38.6,14.55,41.32,14.48Z"/>
+<path xmlns="http://www.w3.org/2000/svg" class="cls-1" d="M41.59,15.09a2,2,0,0,0-2.33,1.36A2.53,2.53,0,0,0,41,19.22a1.76,1.76,0,0,0,2.56-1.31A2.52,2.52,0,0,0,41.59,15.09Z"/>
+<path xmlns="http://www.w3.org/2000/svg" class="cls-1" d="M72.78,24.89a2.74,2.74,0,0,1,2.87,2.66c0,1.47-.79,2.43-2.67,3.54-2.36,1.4-4.89,1.51-5.64.76a2.65,2.65,0,0,1-.27-3.51C68.35,26.84,70.06,25,72.78,24.89Z"/>
+<path xmlns="http://www.w3.org/2000/svg" class="cls-1" d="M73.08,25.6A1.46,1.46,0,0,0,71.47,27a2.35,2.35,0,0,0,1.6,2.64c1.08.25,1.55-.85,1.57-1.84S74.39,25.79,73.08,25.6Z"/>
+<polygon xmlns="http://www.w3.org/2000/svg" class="cls-1" points="71.79 3.95 72.05 2.44 74.07 1.72 74.7 2.45 71.79 3.95"/>
+<path xmlns="http://www.w3.org/2000/svg" class="cls-1" d="M74.51,1.56l.66.72s2.3-.53,2.89-.62a12.57,12.57,0,0,0-1.64-.43Z"/>
+
+<archi xmlns="http://www.w3.org/2000/svg" id="d" name="&#x8BED;&#x4E49;&#x540D;&#x79F0;">
+    <content> 
+        <type>architecture</type>
+        <model>building</model>
+        <element>window</element>
+    </content>
+    <layout>block|outline|2.5D</layout>
+    <orientation>left|right|front</orientation>
+    <shot>close|medium|long|background|common</shot>
+    <boundingrect>
+         <ele>1.1200000047683716,0.8984250426292419,82.67000579833984,34.331573486328125</ele>
+    </boundingrect>
+ </archi>
+
+<title>archi_airplane1</title>
+</g>
+</defs>
+</svg>

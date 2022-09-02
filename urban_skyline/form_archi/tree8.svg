@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="GBK"?>
+<svg id="archi_svg_tree8" width="8000" height="8000" viewBox="0 0 8000 8000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" type="text/css">use.ic-1 { fill: skyblue; }use.ic-2 { fill:none; stroke:#42C2FF;stroke-width:2}</style><svg id="tree8" xml:space="preserve">
+<use class="ic-2" xlink:href="#archi_tree8"/></svg>
+<defs>
+<g id='archi_tree8'>
+<defs xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .cls-1, .cls-2 {
+        
+        
+        
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  
+<g xmlns="http://www.w3.org/2000/svg" id="&#x753B;&#x677F;_8" data-name="&#x753B;&#x677F; 8">
+    <circle id="椭圆_1_拷贝_2" data-name="椭圆 1 拷贝 2" class="cls-1" cx="66" cy="66" r="66"/>
+    <path id="形状_131_拷贝_2" data-name="形状 131 拷贝 2" class="cls-2" d="M17986,8812v70" transform="translate(-17912 -8683)"/>
+  </g>
+
+<archi xmlns="http://www.w3.org/2000/svg" id="d" name="&#x8BED;&#x4E49;&#x540D;&#x79F0;">
+    <content> 
+        <type>architecture</type>
+        <model>building</model>
+        <element>window</element>
+    </content>
+    <layout>block|outline|2.5D</layout>
+    <orientation>left|right|front</orientation>
+    <shot>close|medium|long|background|common</shot>
+    <boundingrect>
+         <ele>0,-5,132,199</ele>
+    </boundingrect>
+ </archi>
+
+<title>archi_tree8</title>
+</g>
+</defs>
+</svg>

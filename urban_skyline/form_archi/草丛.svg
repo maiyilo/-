@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<svg id="archi_svg_草丛" width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" type="text/css">use.ic-1 { fill: skyblue; }use.ic-2 { fill:none; stroke:#42C2FF;stroke-width:2}</style><svg id="草丛" xml:space="preserve">
+<use class="ic-2" xlink:href="#archi_草丛"/></svg>
+<defs>
+<g id='archi_草丛'>
+<g xmlns="http://www.w3.org/2000/svg">
+  <path id="svg_2" d="m293.5,259.8c1,0 90,2 89.5,1.2c0.5,0.8 6.5,-22.2 6,-23c0.5,0.8 -13.5,-16.2 -14,-17c0.5,0.8 -18.5,-13.2 -19.5,-13.2c-1,0 -19,0 -19,0c0,0 -28,6 -28.5,5.2c0.5,0.8 -15.5,0.8 -16.5,0.8c-1,0 -14,-12 -16,-13c-2,-1 -18,-13 -18.5,-13.8c0.5,0.8 -6.5,9.8 -11.5,16.8c-5,7 -17,14 -20,14c-3,0 -25,0 -27,0c-2,0 -13,3 -13,12c0,9 0,20 1,20c1,0 44,6 43.5,5.2c0.5,0.8 62.5,4.8 63.5,4.8z" stroke-width="1.5"  />
+ </g>
+
+<title>archi_草丛</title>
+</g>
+</defs>
+</svg>
